@@ -95,4 +95,8 @@ if [[ "$(grep -m1 'foo' somefile)" ]]; then
 fi
 ```
 
-### More todo
+### Additional links
+- https://google-styleguide.googlecode.com/svn/trunk/shell.xml
+- http://tldp.org/LDP/abs/html/
+- http://wiki.bash-hackers.org/scripting/style#scripting_with_style
+- Bash by Example [Part 1](http://www.ibm.com/developerworks/linux/library/l-bash/index.html) [Part 2](http://www.ibm.com/developerworks/linux/library/l-bash2/index.html) [Part 3] (http://www.ibm.com/developerworks/linux/library/l-bash3/index.html)
